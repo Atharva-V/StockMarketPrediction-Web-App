@@ -2,8 +2,7 @@
 This is Stock market related project in which LSTM is used to predict future stock price and everything is creating on dash where you can check all current stock prices and also added feature which shows top 10 news . Yahoo and BBC-news APIs are used.
 
 ## Predict model
-predict model.py is the first file to open which takes in a dataset of stock( preferably from yahho finance) and predicts model and save in it in form "saved_model.h5" in the same directory.
-
+predict model.py is the first file to open which takes in a dataset of stock( preferably from yahho finance) and makees predictions using LSTM algorithm and save in it in form "saved_model.h5" in the same directory.
 <img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/2.png" width="900" height="40">
 
 ## Frontend App
