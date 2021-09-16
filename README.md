@@ -4,7 +4,7 @@ This is Stock market related project in which LSTM is used to predict future sto
 ## Predict model
 predict model.py is the first file to open which takes in a dataset of stock( preferably from yahho finance) and predicts model and save in it in form "saved_model.h5" in the same directory.
 
-<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/2.png" width="800" height="45">
+<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/2.png" width="900" height="45">
 
 ## Frontend App
 Now run main.py which is basically a dash app. It will display a tab where you model will be shown graphically which you can analyse.
