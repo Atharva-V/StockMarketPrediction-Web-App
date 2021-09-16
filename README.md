@@ -9,12 +9,12 @@ predict model.py is the first file to open which takes in a dataset of stock( pr
 ## Frontend App
 Now run main.py which is basically a dash app. It will display a tab where you model will be shown graphically which you can analyse.
 
-<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/3.png" width="500" height="500">
+<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/3.png" width="500" height="300">
 
 Second tab will allow you to examine all stocks live data using Yahoo finance API.
 
-<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/4.png" width="500" height="500">
+<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/4.png" width="500" height="300">
 
 Finally the last tab shows all top news using BBC-news API related to stocks.
 
-<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/5.png" width="500" height="500">
+<img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/5.png" width="500" height="300">
