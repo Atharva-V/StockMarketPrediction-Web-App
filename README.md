@@ -6,7 +6,7 @@ predict model.py is the first file to open which takes in a dataset of stock( pr
 
 ![2](https://user-images.githubusercontent.com/74040947/133564583-8c4a174b-074e-4820-a338-97a63f2e4e06.png)
 
-##Frontend App
+## Frontend App
 Now run main.py which is basically a dash app. It will display a tab where you model will be shown graphically which you can analyse.
 ![3](https://user-images.githubusercontent.com/74040947/133564606-1acf9862-0fbd-459d-ae76-c088150077cf.png)
 
