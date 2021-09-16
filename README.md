@@ -10,7 +10,7 @@ Now run main.py which is basically a dash app. It will display a tab where you m
 
 <img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/3.png" width="550" height="350">
 
-Second tab will allow you to examine all stocks live data using Yahoo finance API.
+Second tab will allow you to examine all stocks live data using Yahoo finance API. 3 regions-(US/HONG KONG/India)
 
 <img src="https://github.com/Atharva-V/StockMarketPrediction-Web-App/blob/main/screenshots/4.png" width="550" height="350">
 
